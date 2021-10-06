@@ -7,15 +7,23 @@
 
 /* Main Styling */
 html {
-}
-
-body {
-  margin: 0;
-  padding: 0.625rem;
   font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+  padding: 0.625rem;
+}
+
 input {
+  width: 100%;
+  margin-bottom: 0.3125rem;
+  padding: 0.625rem;
+  border: 2px solid #5f9341;
+}
+
+input:focus,
+input:active {
+  border: 2px solid #5f9341;
 }
 
 button {
@@ -28,8 +36,8 @@ button {
   text-align: center;
   background: #5f9341;
   color: #fff;
-  margin: 0.3125rem;
-  padding: 0.3125rem;
+  padding: 0.625rem 1.25rem;
+  font-weight: bold;
 }
 
 /* Utility Ids and Classes */
