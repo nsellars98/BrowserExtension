@@ -33,7 +33,7 @@ button {
   text-decoration: none;
   border-radius: 0.3125rem;
   cursor: pointer;
-  border: none;
+  border: 1px solid #5f9341;
   text-align: center;
   background: #5f9341;
   color: #fff;
@@ -55,3 +55,8 @@ li a {
 }
 
 /* Utility Ids and Classes */
+
+#delete-button {
+  background: #fff;
+  color: #5f9341;
+}

@@ -1,14 +1,13 @@
 # BrowserExtension
-A browser extension for tracking sales leads for the Chrome web browser.
+
+A browser extension for tracking sales leads for the new Microsoft Edge web browser. This extenion can also be used with Google Chrome.
 
 This is an ongoing project.
 
 Upcoming updates:
 
-1. Finalizing the project structure and organization.
-2. Implementing the core project functionality.
-3. Adding styling according to the planned layout.
+- Extend the usability of the extension to Chrome.
 
 Planned additions:
 
-* None at this time.
+- None at this time.
