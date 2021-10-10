@@ -6,6 +6,10 @@ This is an ongoing project.
 
 Upcoming updates:
 
+- Write the JSDoc for functions.
+- Write the functionality to save a lead when the enter key is pressed.
+- Figure out why the save tab doesn't always work (open in new tab).
+- Add the styling to show a different color on the anchor tags when a linked is clicked.
 - Extend the usability of the extension to Chrome.
 
 Planned additions:
