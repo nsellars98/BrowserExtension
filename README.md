@@ -2,9 +2,9 @@
 
 A browser extension for tracking sales leads for the new Microsoft Edge web browser. This extenion can also be used with Google Chrome.
 
-This is an ongoing project.
+This project is part of ***The Frontend Developer Career Path*** tutorial by **Scrimba** on [Scrimba](https://scrimba.com/learn/frontend/lets-build-a-chrome-extension-co85441e3b6bd2c9eeee218bf).
 
-Upcoming updates:
+Planned Additions:
 
 - Write the JSDoc for functions.
 - Write the functionality to save a lead when the enter key is pressed.
@@ -12,6 +12,6 @@ Upcoming updates:
 - Add the styling to show a different color on the anchor tags when a linked is clicked.
 - Extend the usability of the extension to Chrome.
 
-Planned additions:
+Upcoming Updates:
 
 - None at this time.
